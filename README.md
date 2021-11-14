@@ -5,8 +5,11 @@ The application is being developed by
 - Kirklin Taylor, Nayandip Banerjee, Ronak Parmar, and Sahil Salma.
 
 Kirklin - Implementation use case 3 (Diagram included) and use case 5
+
 Nayandip - Initial GUI design for the application
+
 Ronak - Implementation of use case 2 (Diagram included) and use case 4
+
 Sahil - Implementation of use case 1 (Diagram included) and setup git repository and think of other use cases
 
 General - Everyone discussed the use cases and requirements on 2018/09/22, and everyone will evaluate each other's work
